@@ -1,7 +1,3 @@
-Below is a **sample `README.md`** file you can include in your repository to explain the **Syncweb Content Generator** project. Customize the content, links, and references to fit your particular use case or brand guidelines.
-
----
-
 # Syncweb Content Generator
 
 A simple WordPress plugin that adds an **“AI”** button next to text fields in the WordPress admin (including Elementor) and allows you to quickly generate content using the OpenAI/ChatGPT API. This saves time when creating or editing content by letting you generate AI-based text without leaving your WordPress editor.
